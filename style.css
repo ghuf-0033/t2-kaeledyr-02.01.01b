@@ -1,0 +1,22 @@
+h1 { 
+    color: blue;
+}
+
+p{
+    color: rgb(240, 5, 5);
+}
+
+.pink {
+    color: palevioletred;
+}
+
+.green{
+    color: rgb(26, 81, 26);
+}
+
+img{
+    
+    transform: rotate(90deg)
+    
+}
+
